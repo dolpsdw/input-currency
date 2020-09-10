@@ -10,5 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "rxjs": "^6.6.3"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^9.0.0",
+    "rollup": "^2.26.11",
+    "serve": "^11.3.2"
   }
 }
